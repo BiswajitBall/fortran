@@ -10,7 +10,7 @@
 
       interface
           subroutine fillArray (a)
-          integer, dimension(:):: a
+          integer, dimension(:) :: a
           integer :: i
           end subroutine fillArray
 
