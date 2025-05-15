@@ -1,4 +1,4 @@
-     ! Calling array (f95)
+     ! Calling array 
       program CallArray
       implicit none
 
