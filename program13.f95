@@ -1,4 +1,4 @@
-     ! Calling two dimensional array (matrix)
+     ! Calling array (f95)
       program CallArray
       implicit none
 
